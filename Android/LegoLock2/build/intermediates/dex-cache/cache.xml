@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/arjunmehta94/AndroidStudioProjects/LegoLock2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/arjunmehta94/AndroidStudioProjects/LegoLock2/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-719745be48016b3d316122219a032e2d5154e23a.jar" />
+    </item>
+    <item
+        jar="/Users/arjunmehta94/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/arjunmehta94/AndroidStudioProjects/LegoLock2/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-0d51362af539a5b8d0f56db4351c5cdc8b10e01f.jar" />
+    </item>
+    <item
+        jar="/Users/arjunmehta94/AndroidStudioProjects/LegoLock2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/arjunmehta94/AndroidStudioProjects/LegoLock2/app/build/intermediates/pre-dexed/debug/classes-850b27881be1eae3121b3f9d9e34b79838efe17b.jar" />
+    </item>
+    <item
+        jar="/Users/arjunmehta94/AndroidStudioProjects/LegoLock2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/arjunmehta94/AndroidStudioProjects/LegoLock2/app/build/intermediates/pre-dexed/debug/classes-2148598326811b537f4d85e2ab24b00c49e83174.jar" />
+    </item>
+
+</items>
